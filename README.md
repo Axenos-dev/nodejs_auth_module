@@ -12,3 +12,5 @@ Build app
 
 # Start
 `npm start`
+
+App runs on port :8080
