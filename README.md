@@ -3,11 +3,11 @@ Auth module on node.js with TypeScript
 
 # Installation
 
-Install dependencies
+Install dependencies with
 `npm install`
 
 # Build
-Build app
+Build app with
 `npm run build`
 
 # Start
